@@ -81,7 +81,7 @@ const BLOG = {
   // 欢迎语打字效果,Hexo,Matery主题支持, 英文逗号隔开多个欢迎语。
   GREETING_WORDS:
     process.env.NEXT_PUBLIC_GREETING_WORDS ||
-    '嗨，我是一名程序员，嗨，我是一名打工，嗨，我是YiPeng，欢迎来到我的博客🎉🎉',
+    '嗨，我是一名程序员，嗨，我是一名打工人，嗨，我是YiPeng，欢迎来到我的博客🎉🎉',
 
   // 欢迎语打字效果类型速度
   GREETING_WORDS_TYPE_SPEED:
